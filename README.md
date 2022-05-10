@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RockettingTurtle
+- 👋 Hi, I’m @CurtisMcQuarrie
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning Unity and Blender.
 - 💞️ I’m looking to collaborate on small games.
